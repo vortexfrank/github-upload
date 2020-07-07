@@ -1,0 +1,13 @@
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\bin\Debug\netcoreapp3.1\ListFiles.exe
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\bin\Debug\netcoreapp3.1\ListFiles.deps.json
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\bin\Debug\netcoreapp3.1\ListFiles.runtimeconfig.json
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\bin\Debug\netcoreapp3.1\ListFiles.runtimeconfig.dev.json
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\bin\Debug\netcoreapp3.1\ListFiles.dll
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\bin\Debug\netcoreapp3.1\ListFiles.pdb
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\obj\Debug\netcoreapp3.1\ListFiles.csprojAssemblyReference.cache
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\obj\Debug\netcoreapp3.1\ListFiles.AssemblyInfoInputs.cache
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\obj\Debug\netcoreapp3.1\ListFiles.AssemblyInfo.cs
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\obj\Debug\netcoreapp3.1\ListFiles.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\obj\Debug\netcoreapp3.1\ListFiles.dll
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\obj\Debug\netcoreapp3.1\ListFiles.pdb
+C:\Users\Francisco Chacon\Documents\CONTPAQi\TALENTO HUMANO\Capacitacion\ListFiles\obj\Debug\netcoreapp3.1\ListFiles.genruntimeconfig.cache
